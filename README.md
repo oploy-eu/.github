@@ -48,6 +48,6 @@
 </p>
 
 ## Get in touch
-- 🌐 Website: **https://oploy.eu**  
-- 📧 Email: **info@oploy.eu**  
-- 💼 LinkedIn: **https://linkedin.com/company/oploy**  
+- 🌐 [Oploy.eu](https://oploy.eu)   
+- 📧 [Mohammad@oploy.com](mailto:info@oploy.eu)  
+- 💼 LinkedIn:[LinkedIn](https://www.linkedin.com/company/oploy) 
