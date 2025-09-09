@@ -50,4 +50,4 @@
 ## Get in touch
 - 🌐 [Oploy.eu](https://oploy.eu)   
 - 📧 [info@oploy.com](mailto:info@oploy.eu)  
-- 💼 LinkedIn:[LinkedIn](https://www.linkedin.com/company/oploy) 
+- 💼 [LinkedIn](https://www.linkedin.com/company/oploy) 
