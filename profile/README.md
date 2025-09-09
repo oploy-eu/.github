@@ -49,5 +49,5 @@
 
 ## Get in touch
 - 🌐 [Oploy.eu](https://oploy.eu)   
-- 📧 [Mohammad@oploy.com](mailto:info@oploy.eu)  
+- 📧 [info@oploy.com](mailto:info@oploy.eu)  
 - 💼 LinkedIn:[LinkedIn](https://www.linkedin.com/company/oploy) 
