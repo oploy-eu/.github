@@ -1,7 +1,6 @@
-<!-- Optional: replace with your logo asset -->
 <p align="center">
   <a href="https://www.oploy.eu" target="_blank">
-    <img src="https://img.shields.io/badge/Oploy-better%20decisions%20through%20optimization%20%26%20AI-6d28d9?style=for-the-badge" alt="Oploy">
+    <img src="https://img.shields.io/badge/Oploy-Tech%20for%20Decision%20Intelligence-6d28d9?style=for-the-badge" alt="Oploy">
   </a>
 </p>
 
@@ -10,44 +9,151 @@
   <a href="https://opt.oploy.eu">Repair Shop Optimizer</a> •
   <a href="https://siminv.oploy.eu">Inventory Simulation</a> •
   <a href="https://simopt.oploy.eu">Simulation–Optimization Lab</a> •
+  <a href="https://joblab.oploy.eu">JobLab AI</a> •
   <a href="https://www.oploy.eu/contact/">Contact</a>
 </p>
 
 ---
 
-## What we build
-**Applied optimization & simulation products** that turn models into decisions:
-- **Scheduling & planning** (open-shop, flow time, idle/overtime costs)
-- **Inventory & logistics** (SimPy-based policies, lead times, uncertainty)
-- **Full-stack delivery** (APIs + web apps) for real users
+# Oploy  
+### From Data → Models → Better Decisions
 
-## Live demos
-- **Repair Shop Optimizer** → <https://opt.oploy.eu>  
-  *Multi-objective open-shop scheduling (OR-Tools + React)*  
-- **Inventory Simulation** → <https://siminv.oploy.eu>  
-  *Discrete-event policies in SimPy (Django/FastAPI + Nuxt)*  
-- **Simulation–Optimization Lab** → <https://simopt.oploy.eu>  
-  *SimPy + metaheuristics (e.g., GA) for experimentation*
+Oploy builds **applied optimization, simulation, and AI-powered decision systems**.
 
-## Open-source (highlights)
-- `repairshop-optimizer` — models, API, and UI examples  
-- `inventory-sim` — SimPy engine + experiment runners  
-- `simopt-lab` — simulation–optimization patterns & notebooks  
-- `oploy-platform` — Django/Wagtail + FastAPI scaffold
+We bridge:
+- Operations Research  
+- Probabilistic Modeling  
+- Simulation & System Dynamics  
+- Modern AI + LLM Infrastructure  
+- Full-stack production systems  
 
+Our goal:  
+Turn mathematical models into **usable decision tools**.
 
-## Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,nuxt,vue,postgres,redis,docker,aws,gcp" />
-  <br>
-  <img src="https://img.shields.io/badge/OR--Tools-Optimization-blue?logo=google" />
-  <img src="https://img.shields.io/badge/SimPy-Discrete%20Event-informational" />
-  <img src="https://img.shields.io/badge/Stan-Bayesian-red?logo=stan&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-Statistical%20Computing-276DC3?logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-MathWorks-orange?logo=mathworks&logoColor=white" />
-</p>
+---
 
-## Get in touch
-- 🌐 [Oploy.eu](https://oploy.eu)   
-- 📧 [info@oploy.com](mailto:info@oploy.eu)  
-- 💼 [LinkedIn](https://www.linkedin.com/company/oploy) 
+## 🚀 What We Build
+
+### 1️⃣ Optimization Systems
+- Open-shop & flow-shop scheduling
+- Multi-period supply chain network design
+- Capacity planning & cost optimization
+- Idle & overtime cost modeling
+- OR-Tools & custom MILP formulations
+
+### 2️⃣ Simulation Platforms
+- Discrete-event simulation (SimPy)
+- Inventory policy experimentation
+- Stochastic demand modeling
+- Simulation–Optimization loops (GA / metaheuristics)
+- Scenario testing & policy comparison
+
+### 3️⃣ AI-Enhanced Decision Tools
+- LLM-powered job & market intelligence (JobLab)
+- Semantic search + vector databases
+- AWS Bedrock integrations
+- Lambda-based AI backends
+- Retrieval-augmented querying for structured databases
+
+### 4️⃣ Research-to-Production Pipelines
+- Bayesian modeling (HMM, REM, probabilistic forecasting)
+- Freight-rate forecasting systems
+- Robust optimization frameworks
+- System Dynamics decision experiments
+- API-first architecture for real deployment
+
+---
+
+## 🌍 Live Applications
+
+### 🔧 Repair Shop Optimizer  
+https://opt.oploy.eu  
+Multi-objective open-shop scheduling  
+(OR-Tools + React)
+
+### 📦 Inventory Simulation  
+https://siminv.oploy.eu  
+Discrete-event inventory policies under uncertainty  
+(SimPy + FastAPI + Nuxt)
+
+### 🧪 Simulation–Optimization Lab  
+https://simopt.oploy.eu  
+Experimentation framework combining simulation & metaheuristics
+
+### 🤖 JobLab AI  
+https://joblab.oploy.eu  
+AI-powered job market intelligence platform  
+- Semantic job search  
+- Vector embeddings  
+- LLM query interface  
+- Backend: AWS Lambda + FastAPI  
+
+---
+
+## 🧠 Core Philosophy
+
+We believe:
+
+> Optimization without deployment is theory.  
+> AI without structure is noise.  
+> Simulation without decisions is entertainment.  
+
+Oploy focuses on **decision intelligence engineering**.
+
+---
+
+## 🛠 Technology Stack
+
+### Backend
+- Python
+- FastAPI
+- Django / Wagtail
+- PostgreSQL + pgvector
+- Redis
+- AWS (Lambda, ECS, S3, Bedrock, CloudWatch)
+- Docker
+
+### Modeling & Analytics
+- OR-Tools
+- SimPy
+- Stan (Bayesian modeling)
+- R
+- MATLAB
+- Custom metaheuristics
+
+### Frontend
+- React
+- Vue / Nuxt
+- Vercel / Cloudflare
+
+---
+
+## 📦 Open Source Highlights
+
+- `repairshop-optimizer` — scheduling models + API  
+- `inventory-sim` — SimPy engine & experiment runners  
+- `simopt-lab` — simulation–optimization experiments  
+- `oploy-platform` — full-stack decision scaffold  
+- `joblab-ai` — semantic job intelligence backend  
+
+---
+
+## 🎯 Current Focus
+
+- AI + Optimization integration  
+- Serverless LLM infrastructure (Lambda-first)  
+- Vector databases for structured decision querying  
+- Simulation-driven decision dashboards  
+- Academic-to-industry technology transfer  
+
+---
+
+## 📬 Get in Touch
+
+🌐 https://oploy.eu  
+📧 info@oploy.eu  
+💼 LinkedIn: https://www.linkedin.com/company/oploy  
+
+---
+
+**Oploy — Tech for Decision Intelligence**
