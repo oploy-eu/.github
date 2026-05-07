@@ -7,9 +7,8 @@
 <p align="center">
   <a href="https://www.oploy.eu">Website</a> •
   <a href="https://opt.oploy.eu">Repair Shop Optimizer</a> •
-  <a href="https://siminv.oploy.eu">Inventory Simulation</a> •
   <a href="https://simopt.oploy.eu">Simulation–Optimization Lab</a> •
-  <a href="https://joblab.oploy.eu">JobLab AI</a> •
+  <a href="https://job.oploy.eu">JobLab AI</a> •
   <a href="https://www.oploy.eu/contact/">Contact</a>
 </p>
 
@@ -71,17 +70,13 @@ https://opt.oploy.eu
 Multi-objective open-shop scheduling  
 (OR-Tools + React)
 
-### 📦 Inventory Simulation  
-https://siminv.oploy.eu  
-Discrete-event inventory policies under uncertainty  
-(SimPy + FastAPI + Nuxt)
 
 ### 🧪 Simulation–Optimization Lab  
 https://simopt.oploy.eu  
 Experimentation framework combining simulation & metaheuristics
 
 ### 🤖 JobLab AI  
-https://joblab.oploy.eu  
+https://job.oploy.eu  
 AI-powered job market intelligence platform  
 - Semantic job search  
 - Vector embeddings  
